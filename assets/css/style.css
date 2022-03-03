@@ -113,6 +113,10 @@ header ul li :hover
     font-weight: 500;
     letter-spacing: 1px;
 }
+.content .text_box a:hover
+{
+    background: #d13318;
+}
 
 .content .image_box
 {
